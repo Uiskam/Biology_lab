@@ -179,6 +179,6 @@ def main():
 
 
 def test:
-    #TODO: napisac testy do modelu
+    #TODO: napisac testy do modelu i ogarnac jakies bibiolteki do machin leraingu jakie są
 if __name__ == "__main__":
     main()
